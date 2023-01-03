@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attendance Monitor</string>
+    <string name="register">DAFTAR</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Kata Sandi</string>
+    <string name="signup_login_hint">Sudah memiliki akun? Masuk</string>
+    <string name="login_signup_hint">Belum memiliki akun? Daftar</string>
+
+</resources>

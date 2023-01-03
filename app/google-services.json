@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828466306830",
+    "project_id": "ujianakhirsemester-e927f",
+    "storage_bucket": "ujianakhirsemester-e927f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828466306830:android:938a8a252b3c91ec4e415f",
+        "android_client_info": {
+          "package_name": "com.hanvir.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828466306830-e9t5eki1ssbkio6k0mppk4dhvfjb1nqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanvir.uas",
+            "certificate_hash": "10feea323ff36f7e20f16cd707167ad2ab30aafe"
+          }
+        },
+        {
+          "client_id": "828466306830-hjmcnhd1p8ob2h2afunddagk6evnk4dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHCX7nvHibkKmXaD9l-jreRBH3WKfyvS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828466306830-hjmcnhd1p8ob2h2afunddagk6evnk4dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
